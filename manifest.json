@@ -1,0 +1,10 @@
+{
+  "name": "Ecentral Extensions",
+  "description": "Base Level Extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "scanner.html",
+    "default_icon": "facepic_11zon.png"
+  }
+}
